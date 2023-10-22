@@ -4,4 +4,4 @@
 Executant el codi "read.py" podrem llegir l'UID d'una targeta amb el MFRC522 conectat a la Raspberrypi. 
 He utilitzat les llibreries MFRC522 i SimpleMFRC522.
 
-2-Codi Puzzle 2 per a 
+2-Codi Puzzle 2 per a una versió gràfica del puzzle 1, útil per a qualsevol usuari.
