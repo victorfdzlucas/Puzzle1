@@ -37,7 +37,7 @@ class Window(Gtk.Window):
 
     # Funció trucada quan premem el botó
     def clicked(self, widget):
-        # Go back to the previous label
+        # Torna a l'anterior label
         self.label.set_label('<span foreground="white">Please, login with your university card </span>')
         self.eventbox.override_background_color(0, Gdk.RGBA(0, 0, 8, 1))
 
